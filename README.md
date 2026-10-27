@@ -1,6 +1,6 @@
 # File exports
 
-A [labdex](https://github.com/reykimedev/labdex) plugin. Download generated files (OPNsense alias import, DNS zone, Ansible inventory, DHCP reservations, inventory YAML). Nothing is sent anywhere.
+A [labdex](https://github.com/labdex-app/labdex) plugin. Download generated files (OPNsense alias import, DNS zone, Ansible inventory, DHCP reservations, inventory YAML). Nothing is sent anywhere.
 
 **Version** 1.1 · **Works with** labdex >=1.3,<2 · **Plugin id** `exports`
 
